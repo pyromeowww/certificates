@@ -21,4 +21,4 @@
 - Основы CI/CD и работы с Docker
 - Итоговая аттестация. Выпускной проект
 
-<a href="https://raw.githubusercontent.com/pyromeowww/certificates/main/Documents/Диплом_RU_Яцков_2026-18562-034.pdf" download>📄 Скачать диплом (PDF)</
+<a href="https://raw.githubusercontent.com/pyromeowww/certificates/main/Documents/Диплом_RU_Яцков_2026-18562-034.pdf" download>📄 Скачать диплом (PDF)<
